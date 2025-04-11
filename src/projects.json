@@ -46,7 +46,7 @@
   {
     "id": "3",
     "name": "BMI Calculator",
-    "description": "A simple BMI calculator.",
+    "description": "A Cool BMI calculator.",
     "bannerImage": "https://www.metropolisindia.com/upgrade/blog/upload/24/08/Body_Mass_Index1723205045.webp",
     "slideshowImages": [
       "https://www.metropolisindia.com/upgrade/blog/upload/24/08/Body_Mass_Index1723205045.webp"
@@ -59,10 +59,10 @@
     "teamSize": null,
     "teamMembers": [],
     "timeInvested": null,
-    "liveUrl": "https://sanket3yoprogrammer.github.io/BmiCalculator/",
-    "githubUrl": null,
+    "liveUrl": "https://bmi-pro.vercel.app/",
+    "githubUrl": "https://github.com/Sanket3yoProgrammer/BMI-PRO",
     "codepenUrl": null,
-    "link": "https://sanket3yoprogrammer.github.io/BmiCalculator/",
+    "link": "https://bmi-pro.vercel.app/",
     "createdAt": null
   },
   {
