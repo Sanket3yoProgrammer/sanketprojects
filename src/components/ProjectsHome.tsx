@@ -35,13 +35,18 @@ export function ProjectsHome() {
       createdAt: project.createdAt ? new Date(project.createdAt as string) : null
     })) as Project[];
     
-    setProjects(processedProjects);
-    setFilteredProjects(processedProjects);
+    // Sort projects in reverse order by id (highest id at the top)
+    const sortedProjects = [...processedProjects].sort((a, b) => {
+      return parseInt(b.id) - parseInt(a.id);
+    });
+    
+    setProjects(sortedProjects);
+    setFilteredProjects(sortedProjects);
     
     // Extract unique filter options
-    const difficulties = [...new Set(processedProjects.map(p => p.difficulty).filter(Boolean))];
-    const types = [...new Set(processedProjects.map(p => p.projectType).filter(Boolean))];
-    const techs = [...new Set(processedProjects.flatMap(p => p.languages || []))];
+    const difficulties = [...new Set(sortedProjects.map(p => p.difficulty).filter(Boolean))];
+    const types = [...new Set(sortedProjects.map(p => p.projectType).filter(Boolean))];
+    const techs = [...new Set(sortedProjects.flatMap(p => p.languages || []))];
     
     setAvailableDifficulties(difficulties as string[]);
     setAvailableTypes(types as string[]);
