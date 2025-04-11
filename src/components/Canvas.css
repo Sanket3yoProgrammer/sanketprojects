@@ -1,0 +1,92 @@
+.canvas-container {
+  width: 100%;
+  border-radius: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  padding: 1rem;
+}
+
+.canvas-toolbar {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 1rem;
+}
+
+.canvas-blocks {
+  min-height: 200px;
+}
+
+.canvas-block {
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+
+.canvas-block-header {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.canvas-block-drag-handle {
+  cursor: grab;
+  margin-right: 0.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.canvas-block-type {
+  display: flex;
+  align-items: center;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.7);
+  flex-grow: 1;
+}
+
+.canvas-block-delete {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.canvas-block-delete:hover {
+  color: rgba(255, 0, 0, 0.7);
+}
+
+.canvas-empty-state {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 2px dashed rgba(255, 255, 255, 0.1);
+  border-radius: 0.5rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.canvas-textarea {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.canvas-input {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+.canvas-textarea:focus, .canvas-input:focus {
+  border-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.1);
+}
+
+/* Animation for new blocks */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.canvas-block {
+  animation: fadeIn 0.3s ease-out;
+}

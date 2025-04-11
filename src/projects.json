@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Modern React Dashboard",
+    "description": "A responsive admin dashboard with dark mode, data visualization, and real-time updates. Built with React, Tailwind CSS, and Chart.js.",
+    "bannerImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop",
+    "slideshowImages": [
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1415&auto=format&fit=crop"
+    ],
+    "languages": ["JavaScript", "React", "Tailwind CSS"],
+    "difficulty": "Intermediate",
+    "status": "In Progress",
+    "projectType": "Web Application",
+    "topics": ["Frontend", "UI/UX", "Data Visualization"],
+    "teamSize": 3,
+    "teamMembers": [
+      {
+        "name": "Alice Chen",
+        "role": "Frontend Developer",
+        "socialUrl": "https://github.com/alice"
+      },
+      {
+        "name": "Bob Martinez",
+        "role": "UI/UX Designer",
+        "socialUrl": "https://github.com/bob"
+      },
+      {
+        "name": "Charlie Kim",
+        "role": "Backend Developer",
+        "socialUrl": "https://github.com/charlie"
+      }
+    ],
+    "timeInvested": {
+      "value": 120,
+      "unit": "hours"
+    },
+    "liveUrl": "https://modern-react-dashboard.vercel.app",
+    "githubUrl": "https://github.com/user/modern-react-dashboard",
+    "codepenUrl": "https://codepen.io/user/pen/modern-dashboard",
+    "link": "https://modern-react-dashboard.vercel.app",
+    "createdAt": "2023-09-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "AI Image Generator",
+    "description": "A web application that uses machine learning to generate unique images based on text prompts. Integrates with OpenAI's DALL-E API.",
+    "bannerImage": "https://images.unsplash.com/photo-1561736778-92e52a7769ef?q=80&w=1470&auto=format&fit=crop",
+    "slideshowImages": [
+      "https://images.unsplash.com/photo-1561736778-92e52a7769ef?q=80&w=1470&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?q=80&w=1470&auto=format&fit=crop"
+    ],
+    "languages": ["Python", "Flask", "React", "TensorFlow"],
+    "difficulty": "Advanced",
+    "status": "Completed",
+    "projectType": "AI Application",
+    "topics": ["Machine Learning", "API", "Image Processing"],
+    "teamSize": 2,
+    "teamMembers": [
+      {
+        "name": "Diana Lopez",
+        "role": "ML Engineer",
+        "socialUrl": "https://github.com/diana"
+      },
+      {
+        "name": "Ethan Wright",
+        "role": "Full-stack Developer",
+        "socialUrl": "https://github.com/ethan"
+      }
+    ],
+    "timeInvested": {
+      "value": 200,
+      "unit": "hours"
+    },
+    "liveUrl": "https://ai-image-generator-app.vercel.app",
+    "githubUrl": "https://github.com/user/ai-image-generator",
+    "codepenUrl": null,
+    "link": "https://ai-image-generator-app.vercel.app",
+    "createdAt": "2023-11-20T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "E-Commerce Platform",
+    "description": "A full-featured online store with product catalog, shopping cart, secure checkout, and user accounts. Mobile-responsive design.",
+    "bannerImage": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?q=80&w=1470&auto=format&fit=crop",
+    "slideshowImages": [
+      "https://images.unsplash.com/photo-1563013544-824ae1b704d3?q=80&w=1470&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1556742208-999815fca738?q=80&w=1470&auto=format&fit=crop"
+    ],
+    "languages": ["TypeScript", "Next.js", "Node.js", "MongoDB"],
+    "difficulty": "Intermediate",
+    "status": "Completed",
+    "projectType": "Web Application",
+    "topics": ["E-Commerce", "Full-Stack", "Payment Processing"],
+    "teamSize": 4,
+    "teamMembers": [
+      {
+        "name": "Frank Johnson",
+        "role": "Project Manager",
+        "socialUrl": "https://github.com/frank"
+      },
+      {
+        "name": "Grace Lee",
+        "role": "Frontend Developer",
+        "socialUrl": "https://github.com/grace"
+      }
+    ],
+    "timeInvested": {
+      "value": 350,
+      "unit": "hours"
+    },
+    "liveUrl": "https://modern-ecommerce-platform.vercel.app",
+    "githubUrl": "https://github.com/user/ecommerce-platform",
+    "codepenUrl": null,
+    "link": "https://modern-ecommerce-platform.vercel.app",
+    "createdAt": "2023-07-05T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Personal Portfolio",
+    "description": "A sleek, responsive portfolio website to showcase my projects and skills. Features dark mode, animations, and contact form.",
+    "bannerImage": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=1471&auto=format&fit=crop",
+    "slideshowImages": [
+      "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=1471&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1472&auto=format&fit=crop"
+    ],
+    "languages": ["HTML", "CSS", "JavaScript", "React"],
+    "difficulty": "Beginner",
+    "status": "Completed",
+    "projectType": "Portfolio",
+    "topics": ["Frontend", "UI/UX", "Responsive Design"],
+    "teamSize": 1,
+    "teamMembers": [
+      {
+        "name": "Jamie Smith",
+        "role": "Developer & Designer",
+        "socialUrl": "https://github.com/jamiesmith"
+      }
+    ],
+    "timeInvested": {
+      "value": 80,
+      "unit": "hours"
+    },
+    "liveUrl": "https://jamie-portfolio.vercel.app",
+    "githubUrl": "https://github.com/user/personal-portfolio",
+    "codepenUrl": null,
+    "link": "https://jamie-portfolio.vercel.app",
+    "createdAt": "2024-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Weather App",
+    "description": "A weather application that provides real-time forecasts, hourly updates, and 7-day predictions based on location. Integrates with OpenWeatherMap API.",
+    "bannerImage": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?q=80&w=1502&auto=format&fit=crop",
+    "slideshowImages": [
+      "https://images.unsplash.com/photo-1534088568595-a066f410bcda?q=80&w=1502&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1580193769210-b8d1c049a7d9?q=80&w=1474&auto=format&fit=crop"
+    ],
+    "languages": ["JavaScript", "React", "CSS", "API"],
+    "difficulty": "Intermediate",
+    "status": "Completed",
+    "projectType": "Web Application",
+    "topics": ["API Integration", "Weather Data", "Geolocation"],
+    "teamSize": 1,
+    "teamMembers": [
+      {
+        "name": "Kai Anderson",
+        "role": "Frontend Developer",
+        "socialUrl": "https://github.com/kai"
+      }
+    ],
+    "timeInvested": {
+      "value": 40,
+      "unit": "hours"
+    },
+    "liveUrl": "https://weather-app-demo.vercel.app",
+    "githubUrl": "https://github.com/user/weather-app",
+    "codepenUrl": null,
+    "link": "https://weather-app-demo.vercel.app",
+    "createdAt": "2024-02-15T00:00:00.000Z"
+  }
+]

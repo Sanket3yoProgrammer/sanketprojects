@@ -1,0 +1,59 @@
+.image-container {
+    position: relative;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    width: min(10em, 50vw);
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+}
+  
+.image-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    padding: 0.2em; /* Even thinner border */
+    background: 
+        radial-gradient(circle at 75% 50%, #f03355 30%, transparent 50%),
+        radial-gradient(circle at 25% 75%, #514b82 30%, transparent 50%),
+        radial-gradient(circle at 50% 25%, #ffa516 30%, transparent 50%),
+        radial-gradient(circle at 50% 50%, #25b09b 30%, transparent 50%),
+        conic-gradient(from 0deg, #f03355 0deg 90deg, #514b82 90deg 180deg, #ffa516 180deg 270deg, #25b09b 270deg 360deg);
+    background-origin: border-box;
+    -webkit-mask: radial-gradient(closest-side, 
+                red calc(100% - 0.75em - 0.2em - 1px), 
+                transparent calc(100% - 0.75em - 0.2em) calc(100% - 0.75em), 
+                red calc(100% - 0.75em + 1px) calc(100% - 1px), 
+                transparent);
+    mask: radial-gradient(closest-side, 
+                red calc(100% - 0.75em - 0.2em - 1px), 
+                transparent calc(100% - 0.75em - 0.2em) calc(100% - 0.75em), 
+                red calc(100% - 0.75em + 1px) calc(100% - 1px), 
+                transparent);
+  
+    transition: transform 0.7s ease-in-out;
+}
+
+.image-container:hover::before {
+    transform: rotate(360deg) scale(1.1);
+}
+
+.custom-image:hover {
+    box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.4);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    transform: scale(1.1);
+}
+
+.custom-image {
+    width: 78%; /* Slightly bigger to make the border even thinner */
+    height: 78%;
+    border-radius: 50%;
+    object-fit: cover;
+    position: relative;
+    transition: transform 0.7s ease-in-out;
+    z-index: 1;
+}
