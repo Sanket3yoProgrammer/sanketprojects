@@ -91,9 +91,9 @@
     "id": "5",
     "name": "History Chapter 1 Timeline",
     "description": "A timeline for History Chapter 1.",
-    "bannerImage": "https://www.euroschoolindia.com/wp-content/uploads/2023/07/importance-of-history-scaled-1.jpg",
+    "bannerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfVuI-52gMsBUjICo8U71bZzPh_Sl60a0rw&s",
     "slideshowImages": [
-      "https://www.euroschoolindia.com/wp-content/uploads/2023/07/importance-of-history-scaled-1.jpg"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfVuI-52gMsBUjICo8U71bZzPh_Sl60a0rw&s"
     ],
     "languages": [],
     "difficulty": null,
@@ -395,26 +395,4 @@
     "link": "https://sanket3yoprogrammer.github.io/Family-Golf/",
     "createdAt": null
   },
-  {
-    "id": "19",
-    "name": "My Repos",
-    "description": "Check out more projects on GitHub.",
-    "bannerImage": "https://seahawkmedia.com/wp-content/uploads/2022/06/Github-1.png",
-    "slideshowImages": [
-      "https://seahawkmedia.com/wp-content/uploads/2022/06/Github-1.png"
-    ],
-    "languages": [],
-    "difficulty": null,
-    "status": null,
-    "projectType": "Link",
-    "topics": ["GitHub", "Projects"],
-    "teamSize": null,
-    "teamMembers": [],
-    "timeInvested": null,
-    "liveUrl": "https://github.com/Sanket3yoProgrammer?tab=repositories",
-    "githubUrl": "https://github.com/Sanket3yoProgrammer?tab=repositories",
-    "codepenUrl": null,
-    "link": "https://github.com/Sanket3yoProgrammer?tab=repositories",
-    "createdAt": null
-  }
 ]
