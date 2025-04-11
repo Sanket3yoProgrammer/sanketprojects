@@ -200,7 +200,7 @@
   {
     "id": "10",
     "name": "Speech-to-Text Model",
-    "description": "An AI-powered speech-to-text converter.",
+    "description": "An web based speech-to-text converter that sends outputs to a local flask server.",
     "bannerImage": "https://strapiprod.knowlarity.com/uploads/6_m_1_efec69ffb1.png",
     "slideshowImages": [
       "https://strapiprod.knowlarity.com/uploads/6_m_1_efec69ffb1.png"
@@ -208,7 +208,7 @@
     "languages": [],
     "difficulty": null,
     "status": null,
-    "projectType": "AI Application",
+    "projectType": "Application",
     "topics": ["AI"],
     "teamSize": null,
     "teamMembers": [],
@@ -323,10 +323,10 @@
   "teamSize": null,
   "teamMembers": [],
   "timeInvested": null,
-  "liveUrl": "https://your-live-link.com/",
+  "liveUrl": "https://oav-vault.vercel.app/",
   "githubUrl": null,
   "codepenUrl": null,
-  "link": "https://your-live-link.com/",
+  "link": "https://oav-vault.vercel.app/",
   "createdAt": null
 },
 
@@ -346,10 +346,10 @@
     "teamSize": null,
     "teamMembers": [],
     "timeInvested": null,
-    "liveUrl": "https://github.com/equation-graffiti.vercel.app",
-    "githubUrl": "https://github.com/equation-graffiti.vercel.app",
+    "liveUrl": "https://equation-graffiti.vercel.app/",
+    "githubUrl": "https://github.com/Sanket3yoProgrammer/equation-graffiti",
     "codepenUrl": null,
-    "link": "https://github.com/equation-graffiti.vercel.app",
+    "link": "https://equation-graffiti.vercel.app/",
     "createdAt": null
   },
   {
