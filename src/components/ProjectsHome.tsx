@@ -114,9 +114,9 @@ export function ProjectsHome() {
           <h1 className="text-4xl sm:text-5xl font-bold mb-3 text-white relative z-10 bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-200">My Projects</h1>
           <p className="text-center text-gray-400 max-w-lg mx-auto">A collection of my work, experiments, and creative endeavors showcasing skills and experience</p>
           
-          <a href="https://sanket3yoprogrammer.vercel.app" className="mx-auto mb-12">
+          <a href="https://yosanket.vercel.app/" className="mx-auto mb-12">
             <button className="shiny-cta group mx-auto mt-6">
-              <a href="https://sanket3yoprogrammer.vercel.app" className="flex gap-2">
+              <a href="https://yosanket.vercel.app/" className="flex gap-2">
                 <span> Check out my Portfolio </span>
                 <ArrowRightCircle className="w-6 h-6 transition-transform duration-300 group-hover:translate-x-2" />
               </a> 
