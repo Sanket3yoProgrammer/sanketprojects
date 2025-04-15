@@ -35,11 +35,12 @@ const Profile = () => {
         Sanket3yoProgrammer
       </h2> */}
         <h2
-          className="font-bold text-gray-800 dark:text-gray-200 tracking-wide fade-in text-4xl sm:text-5xl md:text-6xl"
+          className="font-bold text-gray-800 dark:text-gray-200 tracking-wide fade-in text-[40px] sm:text-[50px] md:text-[60px]"
           style={{ fontFamily: 'Qwitcher Grypen', fontWeight: 800 }}
         >
           SanketyoProgrammer
         </h2>
+
 
       <img className="mx-auto mt-2" src="https://i.ibb.co/pBBVGgRR/pixelcut-export-2.png" alt="divider" />
 
