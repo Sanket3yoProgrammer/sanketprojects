@@ -166,7 +166,7 @@ function App() {
                     className="flex items-center space-x-2 text-gray-300 bg-black/20 px-4 py-2 rounded-full hover:bg-black/30 transition-colors"
                   >
                     <Github size={18} className="text-purple-300" />
-                    <span className="hover:text-white transition-colors">GitHub</span>
+                    <span className="hover:text-white transition-colors">Check Out My GitHub</span>
                   </a>
                 </div>
               </div>
