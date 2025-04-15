@@ -31,9 +31,16 @@ const Profile = () => {
           
 
       {/* Animated Text with Fade In */}
-    <h2 className=" font-bold text-gray-800 dark:text-gray-200 tracking-wide fade-in" style={{ fontFamily: 'Qwitcher Grypen', fontWeight: 800, fontSize: '60px'  }}>
+{/*     <h2 className=" font-bold text-gray-800 dark:text-gray-200 tracking-wide fade-in" style={{ fontFamily: 'Qwitcher Grypen', fontWeight: 800, fontSize: '60px'  }}>
         Sanket3yoProgrammer
-      </h2>
+      </h2> */}
+        <h2
+          className="font-bold text-gray-800 dark:text-gray-200 tracking-wide fade-in text-4xl sm:text-5xl md:text-6xl"
+          style={{ fontFamily: 'Qwitcher Grypen', fontWeight: 800 }}
+        >
+          SanketyoProgrammer
+        </h2>
+
       <img className="mx-auto mt-2" src="https://i.ibb.co/pBBVGgRR/pixelcut-export-2.png" alt="divider" />
 
     </div>
