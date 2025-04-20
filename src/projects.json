@@ -395,6 +395,29 @@
     "codepenUrl": null,
     "link": "https://sanket3yoprogrammer.github.io/Family-Golf/",
     "createdAt": null
-  }
+  },
+  {
+  "id": "19",
+  "name": "Realtime Location Tracker",
+  "description": "A real-time location tracking web application that uses Node.js, Socket.IO, and Leaflet.js to track and display the geolocation of multiple users on an interactive map. The app is built around backend communication via WebSockets and includes features such as dynamic marker updates, location tracking, and real-time user updates.",
+  "bannerImage": "https://img.freepik.com/premium-vector/map-with-destination-location-point-city-map-with-street-river-gps-map-navigator-concept_34645-1078.jpg",
+  "slideshowImages": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmatEuBmQuhkj5ZzPMWoLFxMFdc4YzHefsQg&s"
+  ],
+  "languages": ["Node.js", "Socket.IO", "JavaScript", "HTML", "CSS", "Leaflet.js"],
+  "difficulty": "Intermediate",
+  "status": "Completed",
+  "projectType": "Web Application",
+  "topics": ["Real-time", "Geolocation", "Web Development", "Interactive Maps"],
+  "teamSize": 1,
+  "teamMembers": ["Sanket Kumar Padhan"],
+  "timeInvested": "2 hours",
+  "liveUrl": "http://localhost:3000",
+  "githubUrl": "https://github.com/Sanket3yoProgrammer/Realtime_Trackr",
+  "codepenUrl": null,
+  "link": "https://github.com/Sanket3yoProgrammer/Realtime_Trackr",
+  "createdAt": "2025-04-20"
+}
+
   
 ]
