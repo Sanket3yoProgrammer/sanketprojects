@@ -4,10 +4,7 @@
       "name": "Project One",
       "description": "A brief description of Project One.",
       "bannerImage": "url_to_image",
-      "timeInvested": {
-        "value": 10,
-        "unit": "hours"
-      },
+      "timeInvested": "2hrs 3min",
       "createdAt": "2023-01-01",
       "status": "Completed",
       "difficulty": "Medium",
@@ -35,10 +32,7 @@
       "name": "Project Two",
       "description": "A brief description of Project Two.",
       "bannerImage": "url_to_image",
-      "timeInvested": {
-        "value": 5,
-        "unit": "days"
-      },
+      "timeInvested": "5 days",
       "createdAt": "2023-02-01",
       "status": "In Progress",
       "difficulty": "Hard",
