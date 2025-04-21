@@ -1,1 +1,78 @@
-
+{
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "A brief description of Project One.",
+      "bannerImage": "url_to_image",
+      "timeInvested": {
+        "value": 10,
+        "unit": "hours"
+      },
+      "createdAt": "2023-01-01",
+      "status": "Completed",
+      "difficulty": "Medium",
+      "projectType": "Web Application",
+      "languages": ["JavaScript", "React"],
+      "topics": ["Frontend", "UI/UX"],
+      "teamSize": 2,
+      "teamMembers": [
+        {
+          "name": "Alice",
+          "role": "Developer",
+          "socialUrl": "https://github.com/alice"
+        },
+        {
+          "name": "Bob",
+          "role": "Designer",
+          "socialUrl": "https://github.com/bob"
+        }
+      ],
+      "liveUrl": "https://projectone.com",
+      "githubUrl": "https://github.com/user/projectone",
+      "codepenUrl": "https://codepen.io/user/projectone"
+    },
+    {
+      "name": "Project Two",
+      "description": "A brief description of Project Two.",
+      "bannerImage": "url_to_image",
+      "timeInvested": {
+        "value": 5,
+        "unit": "days"
+      },
+      "createdAt": "2023-02-01",
+      "status": "In Progress",
+      "difficulty": "Hard",
+      "projectType": "Mobile Application",
+      "languages": ["Java", "Kotlin"],
+      "topics": ["Mobile", "Android"],
+      "teamSize": 1,
+      "teamMembers": [
+        {
+          "name": "Charlie",
+          "role": "Developer",
+          "socialUrl": "https://github.com/charlie"
+        }
+      ],
+      "liveUrl": "https://projecttwo.com",
+      "githubUrl": "https://github.com/user/projecttwo",
+      "codepenUrl": "https://codepen.io/user/projecttwo"
+    }
+  ],
+  "statuses": [
+    "Completed",
+    "In Progress",
+    "On Hold",
+    "Cancelled"
+  ],
+  "difficulties": [
+    "Easy",
+    "Medium",
+    "Hard"
+  ],
+  "projectTypes": [
+    "Web Application",
+    "Mobile Application",
+    "Desktop Application",
+    "API"
+  ]
+}
