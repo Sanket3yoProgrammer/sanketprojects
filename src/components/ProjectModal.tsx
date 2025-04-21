@@ -459,17 +459,17 @@ export function ProjectModal({
                     )}
                     
                     {/* Time Invested */}
-                    {project.timeInvested && (
-                      <div>
-                        <h4 className="text-base sm:text-lg font-semibold text-white mb-2 flex items-center gap-2">
-                          <Clock size={16} className="text-purple-400" />
-                          Time Invested
-                        </h4>
-                        <p className="text-sm sm:text-base text-gray-300">
-                          {project.timeInvested.value} {project.timeInvested.unit}
+                     {project.timeInvested && (
+                       <div>
+                         <h4 className="text-base sm:text-lg font-semibold text-white mb-2 flex items-center gap-2">
+                           <Clock size={16} className="text-purple-400" />
+                           Time Invested
+                         </h4>
+                         <p className="text-sm sm:text-base text-gray-300">
+                          {typeof project.timeInvested === 'string' ? project.timeInvested : `${project.timeInvested.value} ${project.timeInvested.unit}`}
                         </p>
-                      </div>
-                    )}
+                       </div>
+                     )}
 
                     
 
