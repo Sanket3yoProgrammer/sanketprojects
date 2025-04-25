@@ -417,7 +417,43 @@
   "codepenUrl": null,
   "link": "https://github.com/Sanket3yoProgrammer/Realtime_Trackr",
   "createdAt": "2025-04-20"
+},
+{
+  "id": "20  ",
+  "name": "Magmaitis",
+  "description": "A high-fidelity recreation of thisismagma.com — modern real estate web design with advanced JS animations.",
+  "bannerImage": "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/screenshot.png",
+  "slideshowImages": [
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/screenshot.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s2.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s3.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s4.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s5.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s6.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s7.png",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/Magmaitis/main/s8.png"
+  ],
+  "languages": ["HTML", "CSS", "JavaScript"],
+  "difficulty": "Intermediate",
+  "status": "Completed",
+  "projectType": "Web Design",
+  "topics": ["Frontend", "UI/UX", "Animations", "Scroll Effects"],
+  "teamSize": 1,
+  "teamMembers": [
+    {
+      "name": "Sanket Kumar Padhan",
+      "role": "Solo Developer",
+      "socialUrl": "https://github.com/Sanket3yoProgrammer"
+    }
+  ],
+  "timeInvested": "A Week",
+  "liveUrl": "https://magmaitis.vercel.app/",
+  "githubUrl": "https://github.com/Sanket3yoProgrammer/Magmaitis",
+  "codepenUrl": null,
+  "link": "https://magmaitis.vercel.app/",
+  "createdAt": "2025-04-25"
 }
+
 
   
 ]
