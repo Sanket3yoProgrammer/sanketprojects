@@ -452,7 +452,37 @@
   "codepenUrl": null,
   "link": "https://magmaitis.vercel.app/",
   "createdAt": "2025-04-25"
+},
+
+  {
+  "id": "21",
+  "name": "Galactic Craft Cipher",
+  "description": "A futuristic Minecraft-themed SGA (Standard Galactic Alphabet) converter and encryption tool with beautiful animations, real-time conversion, and enchanting table UI aesthetics.",
+  "bannerImage": "https://raw.githubusercontent.com/Sanket3yoProgrammer/galactic-craft-cipher/master/docs/assets/logo.jpg",
+  "slideshowImages": [
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/galactic-craft-cipher/master/docs/assets/screenshot.png"
+  ],
+  "languages": ["TypeScript", "React", "TailwindCSS"],
+  "difficulty": "Medium",
+  "status": "Completed",
+  "projectType": "Web Application",
+  "topics": ["Frontend", "Encryption", "Cipher", "Standard Galactic Alphabet", "UI/UX", "Sci-fi", "Animations"],
+  "teamSize": 1,
+  "teamMembers": [
+    {
+      "name": "Sanket Kumar Padhan",
+      "role": "Solo Developer",
+      "socialUrl": "https://github.com/Sanket3yoProgrammer"
+    }
+  ],
+  "timeInvested": "4 days",
+  "liveUrl": "https://galactic-craft-cipher.vercel.app/",
+  "githubUrl": "https://github.com/Sanket3yoProgrammer/galactic-craft-cipher",
+  "codepenUrl": null,
+  "link": "https://galactic-craft-cipher.vercel.app/",
+  "createdAt": "2025-06-15"
 }
+
 
 
   
