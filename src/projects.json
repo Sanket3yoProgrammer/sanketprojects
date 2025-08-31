@@ -69,9 +69,9 @@
     "id": "4",
     "name": "Aggressor",
     "description": "An advanced web-based platform.",
-    "bannerImage": "https://dianapps.com/blog/wp-content/uploads/2024/05/Cloud-Technology-Gaming.png",
+    "bannerImage": "https://thumbs.dreamstime.com/b/cloud-gaming-header-banner-two-gamers-playing-computer-connected-joystick-demand-video-file-streaming-technology-139977449.jpg",
     "slideshowImages": [
-      "https://dianapps.com/blog/wp-content/uploads/2024/05/Cloud-Technology-Gaming.png"
+      "https://thumbs.dreamstime.com/b/cloud-gaming-header-banner-two-gamers-playing-computer-connected-joystick-demand-video-file-streaming-technology-139977449.jpg"
     ],
     "languages": [],
     "difficulty": null,
@@ -113,9 +113,9 @@
     "id": "6",
     "name": "History Chapter 2 Timeline",
     "description": "A timeline for History Chapter 2.",
-    "bannerImage": "https://lh4.googleusercontent.com/proxy/3vhpIbg-YZGyCft5u3ZFJhqj0yXFOg4EekZr5ENntNPN1vr11g6BnhnB7H-29sd8aXsImGODMJfnf0QpQEYu6SxjqBhaVKhturGR5_CC7THb8JYy81EuO-57iraygzxaquQxx01UlcvApFMW8Nqz",
+    "bannerImage": "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/08/history-in-education.jpg",
     "slideshowImages": [
-      "https://lh4.googleusercontent.com/proxy/3vhpIbg-YZGyCft5u3ZFJhqj0yXFOg4EekZr5ENntNPN1vr11g6BnhnB7H-29sd8aXsImGODMJfnf0QpQEYu6SxjqBhaVKhturGR5_CC7THb8JYy81EuO-57iraygzxaquQxx01UlcvApFMW8Nqz"
+      "https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/08/history-in-education.jpg"
     ],
     "languages": [],
     "difficulty": null,
@@ -487,11 +487,11 @@
   "id": "22",
   "name": "Doordarshan Text",
   "description": "The ultimate parent-student communication platform with 24/7 push notifications, Firebase Cloud Functions, and a modern PWA experience.",
-  "bannerImage": "https://raw.githubusercontent.com/Sanket3yoProgrammer/galactic-craft-cipher/master/docs/assets/dd-txt-li.png",
-  "slideshowImages": [
-    "https://raw.githubusercontent.com/Sanket3yoProgrammer/doordarshantxt/main/docs/assets/dd-txt-logo.png",
-    "https://raw.githubusercontent.com/Sanket3yoProgrammer/doordarshantxt/main/docs/assets/dd-txt-li.png",
-    "https://raw.githubusercontent.com/Sanket3yoProgrammer/doordarshantxt/main/docs/assets/dd-txt-li2.png"
+  "bannerImage": "https://i.ibb.co/YBJbMWcr/dd-txt-li.png",
+  "slideshowImages": [  
+    "https://i.ibb.co/YBJbMWcr/dd-txt-li.png",
+    "https://i.ibb.co/FkXXLXLY/Screenshot-2025-08-31-160643.png",
+    "https://i.ibb.co/MkDYXg74/dd-txt-logo.png"
   ],
   "languages": ["React", "TypeScript", "Firebase", "Tailwind", "Shadcn/ui", "Vite"],
   "difficulty": "Intermediate",
@@ -513,8 +513,10 @@
 
 
 
+
   
 ]
+
 
 
 
