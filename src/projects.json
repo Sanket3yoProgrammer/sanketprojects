@@ -487,10 +487,10 @@
   "id": "22",
   "name": "Doordarshan Text",
   "description": "The ultimate parent-student communication platform with 24/7 push notifications, Firebase Cloud Functions, and a modern PWA experience.",
-  "bannerImage": "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/public/dd-txt-li.png",
+  "bannerImage": "https://github.com/Sanket3yoProgrammer/doordarshantxt/blob/main/public/dd-txt-li.png?raw=true",
   "slideshowImages": [
-    "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/public/dd-txt-li.png",
-    "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/public/dd-txt-logo.png"
+    "https://github.com/Sanket3yoProgrammer/doordarshantxt/blob/main/public/dd-txt-li.png?raw=true",
+    "https://raw.githubusercontent.com/Sanket3yoProgrammer/doordarshantxt/refs/heads/main/public/dd-txt-logo.png"
   ],
   "languages": ["React", "TypeScript", "Firebase", "Tailwind", "Shadcn/ui", "Vite"],
   "difficulty": "Intermediate-Advanced",
@@ -519,5 +519,6 @@
 
   
 ]
+
 
 
