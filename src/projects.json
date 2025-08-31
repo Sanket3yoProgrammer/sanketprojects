@@ -483,28 +483,23 @@
   "createdAt": "2025-06-16"
 },
 
-  {
+{
   "id": "22",
   "name": "Doordarshan Text",
   "description": "The ultimate parent-student communication platform with 24/7 push notifications, Firebase Cloud Functions, and a modern PWA experience.",
-  "bannerImage": "https://github.com/Sanket3yoProgrammer/doordarshantxt/blob/main/public/dd-txt-li.png?raw=true",
+  "bannerImage": "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/dd-txt-li.png",
   "slideshowImages": [
-    "https://github.com/Sanket3yoProgrammer/doordarshantxt/blob/main/public/dd-txt-li.png?raw=true",
-    "https://raw.githubusercontent.com/Sanket3yoProgrammer/doordarshantxt/refs/heads/main/public/dd-txt-logo.png"
+    "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/dd-txt-li.png",
+    "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/dd-txt-logo.png",
+    "https://raw.githubusercontent.com/sanket3yoprogrammer/doordarshantxt/main/dd-txt-li2.png"
   ],
   "languages": ["React", "TypeScript", "Firebase", "Tailwind", "Shadcn/ui", "Vite"],
-  "difficulty": "Intermediate-Advanced",
+  "difficulty": "Intermediate",
   "status": "Active",
   "projectType": "Web Application",
   "topics": ["Messaging", "PWA", "Realtime", "Notifications"],
   "teamSize": 1,
-    "teamMembers": [
-    {
-      "name": "Sanket Kumar Padhan",
-      "role": "Solo Developer",
-      "socialUrl": "https://github.com/Sanket3yoProgrammer"
-    }
-  ],
+  "teamMembers": ["Sanket3yoprogrammer"],
   "timeInvested": "4 days",
   "liveUrl": "https://doordarshantxt.vercel.app",
   "githubUrl": "https://github.com/sanket3yoprogrammer/doordarshantxt",
@@ -517,8 +512,10 @@
 
 
 
+
   
 ]
+
 
 
 
