@@ -481,9 +481,36 @@
   "codepenUrl": null,
   "link": "https://galactic-craft-cipher.vercel.app/",
   "createdAt": "2025-06-16"
+},
+
+  {
+  "id": "22",
+  "name": "Doordarshan Text",
+  "description": "The ultimate parent-student communication platform with 24/7 push notifications, Firebase Cloud Functions, and a modern PWA experience.",
+  "bannerImage": "public/dd-txt-li.png",
+  "slideshowImages": [
+    "public/dd-txt-logo.png",
+    "public/dd-txt-li.png"
+  ],
+  "languages": ["React", "TypeScript", "Firebase", "Tailwind", "Shadcn/ui", "Vite"],
+  "difficulty": "Intermediate",
+  "status": "Active",
+  "projectType": "Web Application",
+  "topics": ["Messaging", "PWA", "Realtime", "Notifications"],
+  "teamSize": 1,
+  "teamMembers": ["Sanket3yoprogrammer"],
+  "timeInvested": "4 days",
+  "liveUrl": "https://doordarshantxt.vercel.app",
+  "githubUrl": "https://github.com/sanket3yoprogrammer/doordarshantxt",
+  "codepenUrl": null,
+  "link": "https://doordarshantxt.vercel.app",
+  "createdAt": "2025-08-31"
 }
+
+
 
 
 
   
 ]
+
