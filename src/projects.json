@@ -506,7 +506,37 @@
   "codepenUrl": null,
   "link": "https://doordarshantxt.vercel.app",
   "createdAt": "2025-08-31"
+},
+
+  {
+  "id": "23",
+  "name": "Integration Visualization App",
+  "description": "An interactive Streamlit app to visualize integrals and Riemann sums with graphs, tables, and detailed explanations.",
+  "bannerImage": "https://i.ibb.co/d0fx7Vcd/Screenshot-2025-10-08-002113.png",
+  "slideshowImages": [
+    "https://i.ibb.co/d0fx7Vcd/Screenshot-2025-10-08-002113.png"
+  ],
+  "languages": ["Python", "Streamlit", "NumPy", "Matplotlib"],
+  "difficulty": "Beginner to Intermediate",
+  "status": "Active",
+  "projectType": "Web Application",
+  "topics": ["Mathematics", "Visualization", "Education", "Riemann Sum", "Integration"],
+  "teamSize": 1,
+  "teamMembers": [
+    {
+      "name": "Sanket Kumar Padhan",
+      "role": "Solo Developer",
+      "socialUrl": "https://github.com/sanket3yoprogrammer"
+    }
+  ],
+  "timeInvested": "2-3 hours",
+  "liveUrl": "https://integration-visualization-app.streamlit.app/",
+  "githubUrl": "https://github.com/sanketyoprogrammer/Integration-Visualization-App",
+  "codepenUrl": null,
+  "link": "https://integration-visualization.vercel.app/",
+  "createdAt": "2025-10-08"
 }
+
 
 
 
@@ -516,6 +546,7 @@
 
   
 ]
+
 
 
 
