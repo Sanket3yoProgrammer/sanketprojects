@@ -535,8 +535,46 @@
   "codepenUrl": null,
   "link": "https://integration-visualization.vercel.app/",
   "createdAt": "2025-10-08"
-}
+},
 
+  
+{
+  "id": "24",
+  "name": "A Thunderous Report",
+  "description": "A humorous yet surprisingly rigorous scientific investigation into whether using mobile internet during a thunderstorm attracts lightning. Features a 19-factor probability audit, physics-based reasoning, Bayesian inference, risk analysis, atmospheric science, and a dramatic report-style presentation.",
+  "bannerImage": "https://i.ibb.co/MDGkZBkg/Screenshot-2026-06-21-182620.png",
+  "slideshowImages": [
+    "https://i.ibb.co/MDGkZBkg/Screenshot-2026-06-21-182620.png"
+  ],
+  "languages": ["HTML", "CSS", "JavaScript"],
+  "difficulty": "Intermediate",
+  "status": "Completed",
+  "projectType": "Scientific Web Report",
+  "topics": [
+    "Physics",
+    "Probability",
+    "Lightning",
+    "Risk Analysis",
+    "Bayesian Inference",
+    "Science Communication",
+    "Atmospheric Science",
+    "Humor"
+  ],
+  "teamSize": 1,
+  "teamMembers": [
+    {
+      "name": "Sanket Kumar Padhan",
+      "role": "Researcher & Developer",
+      "socialUrl": "https://github.com/Sanket3yoProgrammer"
+    }
+  ],
+  "timeInvested": "2-3 hours",
+  "liveUrl": "https://a-thunderous-report.vercel.app/",
+  "githubUrl": "https://github.com/Sanket3yoProgrammer/A-Thunderous-Report",
+  "codepenUrl": null,
+  "link": "https://a-thunderous-report.vercel.app/",
+  "createdAt": "2026-06-21"
+}
 
 
 
